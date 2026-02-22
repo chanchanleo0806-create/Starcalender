@@ -1,0 +1,5 @@
+{
+  "name": "AI Smart Calendar",
+  "description": "A modern calendar with AI-powered schedule summaries, location tracking, and time management.",
+  "requestFramePermissions": ["geolocation"]
+}
